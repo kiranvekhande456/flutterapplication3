@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       appBar: AppBar(
-        title: const Text('Cake Shop'),
+        title: const Text('My Project'),
         centerTitle: true,
       ),
       drawer: Drawer(
